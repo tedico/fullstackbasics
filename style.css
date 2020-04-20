@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #1E2A47;
+  background-color: #f8f8f8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  font-family: 'Heebo', sans-serif;
+  font-weight: 400;
+  font-size: 62.5%;
+  min-height: 100vh;
+}
+
+.main {
+  font-size: 2rem;
+  padding: 3em 0;
+  width: 90%;
+  max-width: 960px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+h1 {
+  margin-bottom: .25em;
+}
+
+p {
+  font-size: 400;
+  margin-top: 0;
+}
+
+.cta {
+  color: #1E2A47;
+  margin: 2em 0;
+  font-weight: 700;
+  text-align: center;
+}
+
+.form-container {
+  display: flex;
+  justify-content: center;
+}
+
+/*  1677be */
